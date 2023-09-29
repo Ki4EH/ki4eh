@@ -4,7 +4,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ki4eh)](https://git.io/streak-stats)
 
 ### Hi there 👋
-🟩I'm Kirill Aksenov fullstack-developer and student of Moscow university RTU MIREA
+🟩I'm Kirill Aksenov fullstack-developer and student of Moscow university RTU MIREA <br/>
 🌱 I’m currently learning Golang, JS and Python. 
 <!--
 **Ki4EH/ki4eh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
